@@ -28,10 +28,6 @@ public:
             ptr2 = ptr2->next ;
         }
         
-
-        for(int i=a-1; i<=b; ++i){
-            ptr1 = ptr1->next ;
-        }
         ptr2->next = ptr3->next ;
 
         return list1 ;
