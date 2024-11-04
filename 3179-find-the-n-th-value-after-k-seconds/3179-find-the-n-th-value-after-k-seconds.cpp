@@ -1,14 +1,18 @@
 class Solution {
 public:
     int valueAfterKSeconds(int n, int k) {
-        vector<long long> arr(n,1);
+      const int MOD = 1000000007;
+        vector<long long> prev(n, 1), curr(n);
 
-        for(int i=1;i<=k;++i){
-           for(int j=1;j<n;++j){
-            arr[j] = (arr[j] + arr[j-1])% 1000000007;
-           } 
+        // Repeat for k seconds
+        for (int i = 1; i <= k; ++i) {
+            curr[0] = 1;  // Since arr[0] is always 1
+            for (int j = 1; j < n; ++j) {
+                curr[j] = (curr[j-1] + prev[j]) % MOD;
+            }
+            prev = curr;  // Update previous array
         }
 
-        return arr[n-1] % 1000000007 ;
+        return prev[n-1] % MOD;
     }
 };
