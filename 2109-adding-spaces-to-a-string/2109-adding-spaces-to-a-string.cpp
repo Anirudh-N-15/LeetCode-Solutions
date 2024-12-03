@@ -7,7 +7,7 @@ public:
 
         while(i<s.size()){
             if(j<spaces.size() && i == spaces[j]){
-                ans += " ";
+                ans += ' ';
                 j++ ;
             }
             ans += s[i];
