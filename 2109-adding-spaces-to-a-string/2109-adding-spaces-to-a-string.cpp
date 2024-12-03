@@ -1,25 +1,18 @@
 class Solution {
 public:
     string addSpaces(string s, vector<int>& spaces) {
-        string ans = "" ;
+        string ans ;
+        ans.reserve(s.size() + spaces.size());
         int i=0,j=0;
 
-        while(j<spaces.size()){
-            while(i!=spaces[j]){
-                ans += s[i];
-                i++ ;
-            }
-            ans += " " ;
-            j++ ;
-        }
-
         while(i<s.size()){
+            if(j<spaces.size() && i == spaces[j]){
+                ans += " ";
+                j++ ;
+            }
             ans += s[i];
             i++ ;
         }
-
-        cout << i << endl ;
-
         return ans ;
     }
 };
