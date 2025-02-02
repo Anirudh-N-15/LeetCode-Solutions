@@ -11,9 +11,6 @@ public:
         for(int i=0;i<n;++i){
             twice.push_back(copy[i]);
         }
-        for(int i=0;i<twice.size();++i){
-            cout << twice[i] << " " ;
-        }
 
         for(int i=0;i<n;++i){
             int count =0;
