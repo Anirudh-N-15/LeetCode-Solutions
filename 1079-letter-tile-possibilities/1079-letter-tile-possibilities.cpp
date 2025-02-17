@@ -1,22 +1,22 @@
 class Solution {
 public:
     int numTilePossibilities(string tiles) {
-        unordered_map<char,int> freq;
+        vector<int> freq(26,0);
         for(const char &c : tiles) {
-            freq[c]++ ;
+            freq[c - 'A']++ ;
         }
-        int count = 0;
-        backtrack(freq,count);
-        return count ;
+        return buildChar(freq);
     }
 private:
-    void backtrack(unordered_map<char,int> tiles,int &count) {
-        for(auto [ch,f] : tiles) {
-            if(f == 0) continue ;
-            count++ ;
-            tiles[ch]-- ;
-            backtrack(tiles,count);
-            tiles[ch]++ ;
+    int buildChar(vector<int>& freq) {
+        int totalCount = 0 ;
+        for(int i=0;i<26;++i){
+            if(freq[i] > 0) {
+                freq[i]-- ;
+                totalCount += 1 + buildChar(freq);
+                freq[i]++ ;
+            }
         }
+        return totalCount ;
     }    
 };
