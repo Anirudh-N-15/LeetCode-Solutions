@@ -1,39 +1,37 @@
 class Solution {
 public:
     vector<int> closestPrimes(int left, int right) {
-        vector<bool> sieve(right + 1, true);
-        sieve[0] = sieve[1] = false;
-
-        for (int i = 2; i * i <= right; ++i) {
-            if (sieve[i]) {
-                for (int j = i * i; j <= right; j += i) {
-                    sieve[j] = false;
+        int prevPrime = -1, closestA = -1, closestB = -1;
+        int minDifference = 1e6;
+        // Find all prime numbers in the given range
+        for (int candidate = left; candidate <= right; candidate++) {
+            if (isPrime(candidate)) {
+                if (prevPrime != -1) {
+                    int difference = candidate - prevPrime;
+                    if (difference < minDifference) {
+                        minDifference = difference;
+                        closestA = prevPrime;
+                        closestB = candidate;
+                    }
+                    // Twin prime optimization
+                    if (difference == 2 or difference == 1)
+                        return {prevPrime, candidate};
                 }
+                prevPrime = candidate;
             }
         }
 
-        vector<int> primes;
-        for (int i = left; i <= right; ++i) {
-            if (sieve[i]) {
-                primes.push_back(i);
-            }
-        }
+        return (closestA == -1) ? vector<int>{-1, -1} : vector<int>{closestA, closestB};
+    }
 
-        if (primes.size() < 2) {
-            return {-1, -1};
+private:
+    bool isPrime(int number) {
+        if (number < 2) return false;
+        if (number == 2 || number == 3) return true;
+        if (number % 2 == 0) return false;
+        for (int divisor = 3; divisor * divisor <= number; divisor += 2) {
+            if (number % divisor == 0) return false;
         }
-
-        int min_gap = INT_MAX;
-        vector<int> result = {-1, -1};
-        
-        for (int i = 1; i < primes.size(); ++i) {
-            int gap = primes[i] - primes[i - 1];
-            if (gap < min_gap) {
-                min_gap = gap;
-                result = {primes[i - 1], primes[i]};
-            }
-        }
-        
-        return result;
-    }      
+        return true;
+    }
 };
