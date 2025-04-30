@@ -1,15 +1,12 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int ans = 0;
+        int res = 0;
         for(int &num : nums){
-            int count = 0;
-            while(num >=1){
-                num /= 10 ;
-                count++ ;
+            if((num >= 10 && num <= 99) || (num >= 1000 && num <= 9999) || num == 100000){
+                res++ ;
             }
-            if(count %2 == 0) ans++ ;
         }
-        return ans ;
+        return res ;
     }
 };
