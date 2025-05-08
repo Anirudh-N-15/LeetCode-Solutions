@@ -1,30 +1,27 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        string ans = "" ;
-        string smallest = strs[0] , largest =strs[0] ; 
+        string smallest = strs[0], largest = strs[0] ;
 
-        for(auto &str : strs){
-            if( str < smallest ){
+        for(string &str : strs) {
+            if(str > largest) {
+                largest = str ;
+            } 
+            if(str < smallest) {
                 smallest = str ;
             }
         }
-        for(auto &str : strs){
-            if( str > largest){
-                largest = str ;
-            }
-        }
-        int i=0;
-        while(i<smallest.size()){
-            if(largest[i] == smallest[i]){
-                ans += smallest[i] ;
-            }
-            else
-            break; 
 
+        int i=0;
+        string res = "";
+        while(i < smallest.size()) {
+            if(smallest[i] != largest[i]){
+                break;
+            } else {
+                res += smallest[i] ;
+            }
             i++ ;
         }
-
-        return ans ;
+        return res ;
     }
 };
