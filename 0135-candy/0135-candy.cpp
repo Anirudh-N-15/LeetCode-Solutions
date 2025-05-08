@@ -14,6 +14,10 @@ public:
                 candies[i] = max(candies[i],candies[i +1] + 1); // This is becuase it can lead to wrong updation in the second pass. Can be avoided if we use two arrays one for left traversal and one for right traversal.
             }
         }
-        return accumulate(candies.begin(),candies.end(),0);
+        int sum=0;
+        for(int &num : candies){
+            sum += num ;
+        }
+        return sum ;
     }
 };
