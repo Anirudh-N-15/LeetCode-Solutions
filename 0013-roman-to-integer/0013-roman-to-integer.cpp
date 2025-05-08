@@ -12,7 +12,7 @@ public:
     roman['D'] = 500 ;
     roman['M'] = 1000 ;
 
-    for(int i =0;i+1 < s.length();++i)
+    for(int i =0;i < s.length();++i)
     {
         if(roman[s[i]]<roman[s[i+1]])
         {
@@ -22,6 +22,6 @@ public:
         ans+= roman[s[i]];
     }
 
-    return ans + roman[s.back()];
+    return ans ;
     }
 };
