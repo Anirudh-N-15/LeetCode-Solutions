@@ -39,8 +39,8 @@ public:
         vector<vector<int>> adj(n);
         for(auto &edge : edges) {
             int u = edge[0], v = edge[1] ;
-            adj[u].push_back(v);
-            adj[v].push_back(u);  
+            adj[u].emplace_back(v);
+            adj[v].emplace_back(u);  
         }
         return adj ;
     }
