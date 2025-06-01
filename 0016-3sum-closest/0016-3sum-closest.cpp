@@ -6,7 +6,7 @@ public:
         int ans ;
         cout << ans ;
 
-        for(int i=0;i<n-2;++i) {
+        for(int i=0;i<n;++i) {
             int j = i + 1, k = n -1;
             while(j < k) {
                 int sum = nums[i] + nums[j] + nums[k] ;
