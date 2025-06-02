@@ -1,18 +1,16 @@
 class StockSpanner {
 public:
     stack<pair<int,int>> st;
-    StockSpanner() {
-        
-    }
+    StockSpanner() {} //Calling the constructor to instatiate the class
     
     int next(int price) {
-        int count = 1;
+        int index = 1;
         while(!st.empty() && st.top().first <= price) {
-            count += st.top().second ;
+            index += st.top().second ;
             st.pop();
         }
-        st.push({price,count});
-        return count ;
+        st.push({price,index});
+        return index ;
     }
 };
 
