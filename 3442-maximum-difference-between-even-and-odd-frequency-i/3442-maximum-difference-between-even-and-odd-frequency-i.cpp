@@ -1,22 +1,22 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        int n = s.size();
-        unordered_map<char,int> umap;
+        vector<int> count(26);
+        int oddmax =0, evenmin = s.size();
 
-        for(const char &c : s) {
-            umap[c]++ ;
+        for(const char &c : s){
+            count[c - 'a']++ ;
         }
-        int oddMax = 1, evenMin = n;
 
-        for(const auto &freq : umap) {
-            if(freq.second % 2 != 0) {
-                oddMax = max(oddMax,freq.second);
-            } else {
-                evenMin = min(evenMin,freq.second);
+        for(int i=0;i<26;++i) {
+            if(count[i]%2 !=0){
+                oddmax = max(oddmax,count[i]);
+            } 
+            if(count[i] % 2 == 0 && count[i] >0){
+                evenmin = min(evenmin,count[i]);
             }
         }
-        return oddMax - evenMin ;
 
+        return oddmax - evenmin ;
     }
 };
