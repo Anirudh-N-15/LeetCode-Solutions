@@ -15,7 +15,7 @@ public:
         }
 
         for(int i =index;i< nums.size();++i){
-            swap(nums[index],nums[i]);
+            swap(nums[index],nums[i]); //index place => ith element position
             permutations(result,nums,index+1);
             swap(nums[index],nums[i]);
         }
