@@ -34,7 +34,6 @@ public:
 
         oldPrev->next = oldNext ;
         oldNext->prev = oldPrev ;
-        //delete(oldNode);
     }
 
     LRUCache(int capacity) {
