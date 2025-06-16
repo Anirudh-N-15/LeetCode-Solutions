@@ -1,47 +1,41 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-        int freshCount = 0;
-        queue<pair<int,int>> rottenQ;
+        int m = grid.size(), n = grid[0].size();
+        int freshCount = 0, minutes = 0;
+        queue<pair<int,int>> q;
+        vector<pair<int,int>> dir = {{0,1},{1,0},{-1,0},{0,-1}};
 
-        for(int i=0;i<rows;++i){
-            for(int j=0;j<cols;++j){
-                if(grid[i][j]==2){
-                    rottenQ.push({i,j});
-                }
-                else if(grid[i][j]==1){
+        for(int i=0;i<m;i++) {
+            for(int j=0;j<n;j++) {
+                if(grid[i][j] == 1) {
                     freshCount++ ;
+                } else if(grid[i][j] == 2) {
+                    q.push({i,j});
                 }
             }
         }
 
-        vector<pair<int,int>> directions = {{-1,0},{1,0},{0,-1},{0,1}};
-        int minutes = 0;
+        while(!q.empty() && freshCount > 0) {
+            int size = q.size();
 
-        while(!rottenQ.empty() && freshCount > 0){
-            int size = rottenQ.size();
+            for(int i=0;i<size;i++) {
+                auto rotten = q.front();
+                q.pop();
 
-            for(int i=0;i<size;++i){
-                auto [x,y] = rottenQ.front();
-                rottenQ.pop();
+                for(auto it : dir) {
+                    int nrow = rotten.first + it.first ;
+                    int ncol = rotten.second + it.second ;
 
-                for(auto [dx,dy] : directions){
-                    int newrow = x + dx ;
-                    int newcol = y + dy ;
-
-                    if(newrow >=0 && newrow<rows && newcol >=0 && newcol<cols && grid[newrow][newcol]==1){
-                        grid[newrow][newcol] = 2 ;
+                    if(nrow >= 0 && nrow < m && ncol >=0 && ncol < n && grid[nrow][ncol] == 1){
+                        grid[nrow][ncol] = 2;
+                        q.push({nrow,ncol});
                         freshCount-- ;
-                        rottenQ.push({newrow,newcol});
                     }
                 }
             }
             minutes++ ;
         }
-
-        return freshCount==0 ? minutes : -1 ;
-
+        return freshCount == 0 ? minutes : -1 ;
     }
 };
