@@ -1,3 +1,5 @@
+//The intuition here is to perform a dfs for 'O' on the borders and mark them.
+//Then traverse the matrix again to convert all other O's to X which were unmarked.
 class Solution {
 public:
     void dfs(vector<vector<char>>& board,vector<vector<bool>>& marked,int row,int col) {
@@ -37,6 +39,5 @@ public:
                 }
             }
         }
-
     }
 };
