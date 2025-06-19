@@ -6,7 +6,10 @@ public:
         //That is what the or condition is for. The choice we make will check the prev
         //one and if any one is true the dp[i][j] = true 
 
-        int sum = accumulate(nums.begin(),nums.end(),0);
+        int sum = 0;
+        for(const int &num : nums) {
+            sum += num;
+        }
         int n = nums.size();
         if(sum % 2 != 0) return false ;
 
