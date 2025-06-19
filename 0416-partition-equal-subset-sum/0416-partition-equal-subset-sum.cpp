@@ -14,10 +14,10 @@ public:
         if(sum % 2 != 0) return false ;
 
         sum /= 2; // We only need half of the sum 
-        vector<vector<bool>> dp(n+1,vector<bool>(sum+1,false));
+        vector<vector<bool>> dp(n+1,vector<bool>(sum+1,true));
 
-        for(int i=0;i<=n;i++) {
-            dp[i][0] = true ;   //We can make 0 sum using 0-n elements in nums
+        for(int i=1;i<=n;i++) {
+            dp[0][i] =  false ;   //We can make 0 sum using 0-n elements in nums
         }
 
         for(int i=1;i<=n;i++) {
