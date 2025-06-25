@@ -1,3 +1,7 @@
+//The logic here is to return(delete) the number of chars that is extra 
+//from both the strings.As we are adding both the strings we are getting 
+//double the number of LCS. That is why we subtract LCS*2 ;
+
 class Solution {
 public:
     int minDistance(string s, string t) {
@@ -13,11 +17,6 @@ public:
                 }
             }
         }
-        //The logic here is to return(delete) the number of chars that is extra 
-        //from both the strings.As we are adding both the strings we are getting 
-        //double the number of LCS. That is why we subtract LCS*2 ; 
-
-
         return n + m - (2*dp[n][m]) ;
     }
 };
