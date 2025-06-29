@@ -7,12 +7,12 @@ public:
         queue<int> q;
         int count = 0;
 
-        for(auto it : prerequisites) {
+        for(auto &it : prerequisites) {
             adj[it[0]].push_back(it[1]);
         }
 
-        for(auto it : adj) {
-            for(auto num : it) {
+        for(auto &it : adj) {
+            for(auto &num : it) {
                 indegree[num]++ ;
             }
         }
@@ -28,7 +28,7 @@ public:
             q.pop();
             count++ ;
 
-            for(auto it : adj[node]) {
+            for(auto &it : adj[node]) {
                 indegree[it]-- ;
                 if(indegree[it] == 0) {
                     q.push(it);
