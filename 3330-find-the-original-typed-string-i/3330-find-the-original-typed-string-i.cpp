@@ -1,15 +1,13 @@
 class Solution {
 public:
     int possibleStringCount(string word) {
-        stack<char> st ;
-        int count =1;
-        st.push(word[0]);
+        int n = word.size();
+        int count = 1;
 
-        for(int i=1;i<word.size();++i){
-            if(st.top()==word[i]){
+        for(int i=0;i<n-1;i++) {
+            if(word[i] == word[i+1]) {
                 count++ ;
             }
-                st.push(word[i]);
         }
         return count ;
     }
