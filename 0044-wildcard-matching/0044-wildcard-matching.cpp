@@ -1,3 +1,5 @@
+//Always pass everything everything by reference. Learnt it the haed way. :)
+
 class Solution {
 public:
     bool f(int i, int j, string& s, string& p, vector<vector<int>>& dp) {
