@@ -2,7 +2,7 @@ class Solution {
 public:
     int m,n;
 
-    bool backtrack(int i, int j, int index, string& word, vector<vector<char>>& board,vector<pair<int,int>> dirs){
+    bool backtrack(int i, int j, int index, string& word, vector<vector<char>>& board,vector<pair<int,int>>& dirs){
         if(board[i][j] != word[index]) {
             return false ;
         }
