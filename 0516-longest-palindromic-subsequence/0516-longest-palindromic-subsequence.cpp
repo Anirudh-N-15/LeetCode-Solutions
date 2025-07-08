@@ -1,23 +1,23 @@
-//Similar to Longest Common Subsequence with the twist that here the second string is
-//the reversed second string.
-
 class Solution {
 public:
+    int memo(const string&s,const string&t,int i,int j, vector<vector<int>>& dp) {
+        if(i == -1 || j== -1) return 0;
+
+        if(dp[i][j] != -1) return dp[i][j] ;
+
+        if(s[i] == t[j]) {
+            return dp[i][j] = 1 + memo(s,t,i-1,j-1,dp);
+        } else {
+            return dp[i][j] = max(memo(s,t,i-1,j,dp),memo(s,t,i,j-1,dp));
+        }
+    }
+
     int longestPalindromeSubseq(string s) {
         int n = s.size();
         string t = s;
         reverse(t.begin(),t.end());
-        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
 
-        for(int i=1;i<=n;i++) {
-            for(int j=1;j<=n;j++) {
-                if(s[i-1] == t[j-1]) {
-                    dp[i][j] = dp[i-1][j-1] + 1;
-                } else {
-                    dp[i][j] = max(dp[i-1][j],dp[i][j-1]);
-                }
-            }
-        }
-        return dp[n][n] ;
+        return memo(s,t,n-1,n-1,dp);
     }
 };
