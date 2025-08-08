@@ -29,6 +29,7 @@ This is a repo for all my leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
@@ -42,4 +43,12 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
