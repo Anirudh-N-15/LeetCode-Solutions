@@ -46,6 +46,7 @@ This is a repo for all my leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
 ## Probability and Statistics
 |  |
@@ -67,4 +68,12 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
