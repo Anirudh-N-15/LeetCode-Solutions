@@ -6,9 +6,11 @@ public:
         using T = tuple<int,int,int> ;
         priority_queue<T,vector<T>,greater<>> pq ;
         vector<vector<int>> dist(n,vector<int>(n,1e6));
+        vector<vector<bool>> vis(n,vector<bool>(n,false));
         vector<pair<int,int>> dirs = {{0,1},{1,0},{-1,0},{0,-1}};
         
         dist[0][0] = grid[0][0] ;
+        vis[0][0] = true ;
         pq.push({grid[0][0],0,0});
 
         while(!pq.empty()) {
@@ -26,8 +28,9 @@ public:
                 if(nrow >= 0 && nrow < n && ncol >=0 && ncol < n) {
                     int newTime = max(grid[nrow][ncol], orgTime);
 
-                    if(newTime < dist[nrow][ncol]) {
+                    if(newTime < dist[nrow][ncol] && !vis[nrow][ncol]) {
                         dist[nrow][ncol] = newTime ;
+                        vis[nrow][ncol] = true ;
                         pq.push({newTime,nrow,ncol});
                     }
                 }
