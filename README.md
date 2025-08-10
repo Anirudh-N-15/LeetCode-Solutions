@@ -145,5 +145,6 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
