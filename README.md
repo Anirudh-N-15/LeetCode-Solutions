@@ -141,4 +141,8 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
