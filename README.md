@@ -15,6 +15,7 @@ This is a repo for all my leetcode solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -28,6 +29,7 @@ This is a repo for all my leetcode solutions
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0911-profitable-schemes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -109,6 +111,7 @@ This is a repo for all my leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -141,6 +144,7 @@ This is a repo for all my leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -160,4 +164,8 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
