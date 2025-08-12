@@ -2,7 +2,7 @@ class Solution {
 public:
     const int mod = 1e9 + 7;
 
-    int memo(int n, int x, int index, vector<int>& nums,
+    int memo(int n, int& x, int index, vector<int>& nums,
              vector<vector<int>>& dp) {
         if (n < 0) {
             return 0;
