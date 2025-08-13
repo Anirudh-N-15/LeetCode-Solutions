@@ -37,6 +37,7 @@ This is a repo for all my leetcode solutions
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
 |  |
@@ -81,6 +83,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,4 +171,8 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
