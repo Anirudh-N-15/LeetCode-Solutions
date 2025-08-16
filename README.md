@@ -5,6 +5,7 @@ This is a repo for all my leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -15,6 +16,7 @@ This is a repo for all my leetcode solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -22,6 +24,7 @@ This is a repo for all my leetcode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Array
@@ -45,6 +48,7 @@ This is a repo for all my leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0221-maximal-square](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
@@ -76,6 +80,7 @@ This is a repo for all my leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0326-power-of-three) |
