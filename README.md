@@ -54,6 +54,7 @@ This is a repo for all my leetcode solutions
 | [0377-combination-sum-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0911-profitable-schemes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1332-count-vowels-permutation](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1332-count-vowels-permutation) |
@@ -86,12 +87,14 @@ This is a repo for all my leetcode solutions
 | [0326-power-of-three](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +136,7 @@ This is a repo for all my leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Counting
 |  |
