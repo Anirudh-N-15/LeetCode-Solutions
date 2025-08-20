@@ -44,6 +44,7 @@ This is a repo for all my leetcode solutions
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2176-parallel-courses-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -182,6 +183,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Database
 |  |
 | ------- |
