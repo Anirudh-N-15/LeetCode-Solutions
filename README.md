@@ -30,6 +30,7 @@ This is a repo for all my leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0221-maximal-square](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
