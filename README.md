@@ -111,6 +111,7 @@ This is a repo for all my leetcode solutions
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Probability and Statistics
 |  |
 | ------- |
