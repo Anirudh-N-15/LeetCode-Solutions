@@ -1,32 +1,32 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        priority_queue<pair<double,pair<double,double>>>pq;
-        int no_of_class=classes.size();
-        for(int i=0;i<no_of_class;i++){
-            double pass=classes[i][0];
-            double total=classes[i][1];
-            double average=(double)(pass/total)-(double)((pass+1)/(total+1));
-            pq.push({abs(average),{pass,total}});
+        using t = tuple<double,int,int> ;
+        priority_queue<t, vector<t>> pq ;
+
+        for(auto &clas : classes) {
+            int a = clas[0], b = clas[1];
+            double gain = (double)(a+1) /(b+1) - (double)a/b ;
+            pq.push({gain,a,b});
         }
-        while(extraStudents!=0){
-            auto min_average=pq.top();
+
+        while(extraStudents--) {
+            auto [gain, a, b] = pq.top();
             pq.pop();
-            double pass=min_average.second.first;
-            double total=min_average.second.second;
-            double new_ration=(double)((pass+1)/(total+1))-(double)(pass+2)/(total+2);
-            pq.push({abs(new_ration),{pass+1,total+1}});
-            extraStudents--;
+            a++ , b++ ;
+            double newGain = (double)(a+1) /(b+1) - (double)a/b ;
+
+            pq.push({newGain,a,b}); 
         }
-        double ans;
-        double sum=0;
-        while(!pq.empty()){
-            auto front=pq.top();
+
+        double ans = 0.0;
+        while(!pq.empty()) {
+            auto [gain, a, b] = pq.top();
             pq.pop();
-            double average=front.second.first/front.second.second;
-            sum+=average;
+
+            ans += (double)a/b ;
         }
-        ans=sum/(double)(no_of_class);
-        return ans;        
+        int n = classes.size();
+        return ans/n ;
     }
 };
