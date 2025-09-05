@@ -149,6 +149,7 @@ This is a repo for all my leetcode solutions
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +204,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Greedy
 |  |
@@ -246,4 +248,8 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
