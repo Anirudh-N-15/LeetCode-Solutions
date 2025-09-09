@@ -78,6 +78,7 @@ This is a repo for all my leetcode solutions
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2176-parallel-courses-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -232,6 +233,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Design
 |  |
@@ -254,4 +256,8 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
