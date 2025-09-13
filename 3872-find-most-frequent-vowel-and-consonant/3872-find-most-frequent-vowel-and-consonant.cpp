@@ -8,7 +8,7 @@ public:
             count[c]++ ;
         }
 
-        for(auto it : count){
+        for(auto &it : count){
             if(it.first == 'a' || it.first == 'e' || it.first == 'i' || it.first == 'o' || it.first == 'u') {
                 maxVowel = max(maxVowel,it.second);
             } else {
