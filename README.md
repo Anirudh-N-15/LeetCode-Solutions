@@ -146,6 +146,7 @@ This is a repo for all my leetcode solutions
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -174,6 +175,7 @@ This is a repo for all my leetcode solutions
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -254,6 +256,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
+| [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Topological Sort
 |  |
 | ------- |
@@ -284,4 +287,8 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
