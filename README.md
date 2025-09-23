@@ -205,6 +205,7 @@ This is a repo for all my leetcode solutions
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -248,6 +249,7 @@ This is a repo for all my leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Simulation
 |  |
