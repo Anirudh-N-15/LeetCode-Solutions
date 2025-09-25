@@ -37,6 +37,7 @@ This is a repo for all my leetcode solutions
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0057-insert-interval](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0120-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -69,6 +70,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
