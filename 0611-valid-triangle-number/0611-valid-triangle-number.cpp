@@ -1,7 +1,7 @@
 class Solution {
 public:
     int triangleNumber(vector<int>& nums) {
-        long long count = 0;
+        int count = 0;
         int n = nums.size();
         sort(nums.begin(),nums.end());
         
