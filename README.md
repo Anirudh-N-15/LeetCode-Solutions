@@ -21,6 +21,7 @@ This is a repo for all my leetcode solutions
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -43,6 +44,7 @@ This is a repo for all my leetcode solutions
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0790-global-and-local-inversions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -224,6 +226,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Enumeration
@@ -235,6 +238,7 @@ This is a repo for all my leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -253,6 +257,7 @@ This is a repo for all my leetcode solutions
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Simulation
 |  |
 | ------- |
