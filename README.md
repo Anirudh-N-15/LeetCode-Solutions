@@ -50,6 +50,7 @@ This is a repo for all my leetcode solutions
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0911-profitable-schemes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
@@ -124,6 +125,7 @@ This is a repo for all my leetcode solutions
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -228,6 +230,7 @@ This is a repo for all my leetcode solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Enumeration
 |  |
@@ -239,6 +242,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
