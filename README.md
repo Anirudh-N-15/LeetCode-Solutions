@@ -53,6 +53,7 @@ This is a repo for all my leetcode solutions
 | [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
@@ -81,6 +82,7 @@ This is a repo for all my leetcode solutions
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0911-profitable-schemes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1332-count-vowels-permutation](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1332-count-vowels-permutation) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
