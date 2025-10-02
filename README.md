@@ -221,6 +221,7 @@ This is a repo for all my leetcode solutions
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
 |  |
@@ -272,6 +273,7 @@ This is a repo for all my leetcode solutions
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3336-water-bottles-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
