@@ -1,34 +1,40 @@
 class Solution {
 public:
-    int trapRainWater(vector<vector<int>>& heightMap) {
-        if (heightMap.empty() || heightMap[0].empty()) return 0;
-        int m = heightMap.size(), n = heightMap[0].size(), res = 0;
-        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 || j == 0 || i == m - 1 || j == n - 1) {
-                    pq.push({heightMap[i][j], i, j});
-                    visited[i][j] = true;
+    int trapRainWater(vector<vector<int>>& height) {
+        int ans = 0;
+        int m = height.size(), n = height[0].size() ;
+        using t = tuple<int,int,int> ;
+        priority_queue<t,vector<t>, greater<t>> pq ;
+        vector<vector<bool>> vis(m,vector<bool>(n,0));
+
+        for(int i=0;i<m;i++) {
+            for(int j=0;j<n;j++) {
+                if(i == 0 || j == 0 || i == m-1 || j == n-1) {
+                    vis[i][j] = true ;
+                    pq.push({height[i][j], i, j});
                 }
             }
         }
-        
-        vector<int> dirs = {-1, 0, 1, 0, -1};
-        while (!pq.empty()) {
-            auto curr = pq.top();
-            pq.pop();
-            int h = curr[0], x = curr[1], y = curr[2];
-            for (int i = 0; i < 4; i++) {
-                int nx = x + dirs[i], ny = y + dirs[i + 1];
-                if (nx >= 0 && nx < m && ny >= 0 && ny < n && !visited[nx][ny]) {
-                    visited[nx][ny] = true;
-                    res += max(0, h - heightMap[nx][ny]);
-                    pq.push({max(h, heightMap[nx][ny]), nx, ny});
+
+        vector<pair<int,int>> dirs = {{0,1},{1,0},{-1,0},{0,-1}};
+        while(!pq.empty()) {
+            auto [currHeight, currRow, currCol] = pq.top() ;
+            pq.pop() ;
+
+            for(auto dir : dirs) {
+                int nRow = currRow + dir.first ;
+                int nCol = currCol + dir.second ;
+
+                if(nRow >= 0 && nRow < m && nCol >= 0 && nCol < n) {
+                    if(!vis[nRow][nCol]) {
+                        vis[nRow][nCol] = true ;
+                        ans += max(0, currHeight - height[nRow][nCol]) ;
+                        int newHeight = max(currHeight, height[nRow][nCol]) ;
+                        pq.push({newHeight,nRow,nCol});
+                    }
                 }
             }
         }
-        return res;
+        return ans ;
     }
 };
