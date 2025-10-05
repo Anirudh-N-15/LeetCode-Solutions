@@ -6,12 +6,14 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -31,6 +33,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -155,6 +158,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
@@ -216,6 +220,7 @@ This is a repo for all my leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
