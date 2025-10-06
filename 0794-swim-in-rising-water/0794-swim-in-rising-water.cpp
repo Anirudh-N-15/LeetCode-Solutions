@@ -2,34 +2,31 @@ class Solution {
 public:
     int swimInWater(vector<vector<int>>& grid) {
         int n = grid.size();
-        int ans = 1e6 ;
-        using T = tuple<int,int,int> ;
-        priority_queue<T,vector<T>,greater<>> pq ;
-        vector<vector<int>> dist(n,vector<int>(n,1e6));
-        vector<vector<bool>> vis(n,vector<bool>(n,false));
-        vector<pair<int,int>> dirs = {{0,1},{1,0},{-1,0},{0,-1}};
-        
-        dist[0][0] = grid[0][0] ;
-        vis[0][0] = true ;
+        using t = tuple<int,int,int> ;
+        priority_queue<t,vector<t>,greater<t>> pq ;
+        vector<vector<bool>> vis(n,vector<bool>(n,0));
+        vector<vector<int>> time(n,vector<int>(n,1e6));
         pq.push({grid[0][0],0,0});
 
+        vector<pair<int,int>> dirs = {{1,0},{0,1},{-1,0},{0,-1}};
+
         while(!pq.empty()) {
-            auto [orgTime, row, col] = pq.top();
-            pq.pop();
+            auto [currTime, row, col] = pq.top();
+            pq.pop() ;
 
-            for(auto dir : dirs) {
-                int nrow = row + dir.first;
-                int ncol = col + dir.second;
+            if(row == n-1 && col == n-1) {
+                return currTime ;
+            }
 
-                if(row == n -1 && col == n-1){
-                return orgTime ;
-                }
+            for(auto &dir : dirs) {
+                int nrow = row + dir.first ;
+                int ncol = col + dir.second ;
 
-                if(nrow >= 0 && nrow < n && ncol >=0 && ncol < n) {
-                    int newTime = max(grid[nrow][ncol], orgTime);
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < n && !vis[nrow][ncol]) {
+                    int newTime = max(currTime,grid[nrow][ncol]);
 
-                    if(newTime < dist[nrow][ncol] && !vis[nrow][ncol]) {
-                        dist[nrow][ncol] = newTime ;
+                    if(newTime < time[nrow][ncol]) {
+                        time[nrow][ncol] = newTime ;
                         vis[nrow][ncol] = true ;
                         pq.push({newTime,nrow,ncol});
                     }
@@ -37,6 +34,5 @@ public:
             }
         }
         return -1 ;
-
     }
 };
