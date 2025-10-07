@@ -29,6 +29,7 @@ This is a repo for all my leetcode solutions
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Binary Tree
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This is a repo for all my leetcode solutions
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
+| [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -171,6 +173,7 @@ This is a repo for all my leetcode solutions
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
@@ -202,6 +205,7 @@ This is a repo for all my leetcode solutions
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
@@ -270,6 +274,7 @@ This is a repo for all my leetcode solutions
 | [0011-container-with-most-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
