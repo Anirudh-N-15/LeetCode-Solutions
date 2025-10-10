@@ -4,7 +4,7 @@ class Solution {
 public:
     int maximumEnergy(vector<int>& energy, int k) {
         int n = energy.size();
-        vector<int> dp = energy;
+        vector<int>& dp = energy;
 
         for (int i = n - 1; i >= (n - k); i--) {
             int j = i;
