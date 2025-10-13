@@ -64,6 +64,7 @@ This is a repo for all my leetcode solutions
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -207,6 +208,7 @@ This is a repo for all my leetcode solutions
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -245,6 +247,7 @@ This is a repo for all my leetcode solutions
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -263,6 +266,7 @@ This is a repo for all my leetcode solutions
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Enumeration
 |  |
