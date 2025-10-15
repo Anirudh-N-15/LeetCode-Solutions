@@ -30,6 +30,7 @@ This is a repo for all my leetcode solutions
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This is a repo for all my leetcode solutions
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
