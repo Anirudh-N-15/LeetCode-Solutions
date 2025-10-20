@@ -59,6 +59,7 @@ This is a repo for all my leetcode solutions
 | [0679-24-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0790-global-and-local-inversions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0911-profitable-schemes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -124,6 +125,7 @@ This is a repo for all my leetcode solutions
 | [0417-pacific-atlantic-water-flow](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -197,6 +199,7 @@ This is a repo for all my leetcode solutions
 | [0191-number-of-1-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -295,6 +298,7 @@ This is a repo for all my leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
