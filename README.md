@@ -169,6 +169,7 @@ This is a repo for all my leetcode solutions
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This is a repo for all my leetcode solutions
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
