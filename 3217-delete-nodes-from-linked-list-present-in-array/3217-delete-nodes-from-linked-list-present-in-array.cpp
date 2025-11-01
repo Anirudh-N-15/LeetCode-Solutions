@@ -11,21 +11,20 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_set <int> numsSet(nums.begin(),nums.end());
-        ListNode * dummy = new ListNode(0);
-        dummy->next = head ;
+        unordered_set<int> uset(nums.begin(),nums.end());
 
+        ListNode * dummy = new ListNode(0,head);
         ListNode * prev = dummy ;
-        ListNode * current = head ;
+        ListNode * curr = head ;
 
-        while(current!=nullptr){
-            if(numsSet.count(current->val)){
-                prev->next = current->next ;
+        while(curr) {
+            if(uset.find(curr->val) != uset.end()) {
+                prev->next = curr->next ;
+                curr = curr->next ;
+            } else {
+                curr = curr->next ;
+                prev = prev->next ;
             }
-            else
-            prev = current ;
-
-            current = current->next ;
         }
         return dummy->next ;
     }
