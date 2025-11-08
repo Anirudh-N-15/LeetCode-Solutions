@@ -122,6 +122,7 @@ This is a repo for all my leetcode solutions
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2176-parallel-courses-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -227,6 +228,7 @@ This is a repo for all my leetcode solutions
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -407,6 +409,7 @@ This is a repo for all my leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Brainteaser
