@@ -11,8 +11,6 @@ public:
                 num2 -= num1 ;
                 count++ ;
             }
-            cout << num1 << endl ;
-            cout << num2 << endl ;
         }
         return count ;
     }
