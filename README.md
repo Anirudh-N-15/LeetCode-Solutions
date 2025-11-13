@@ -76,6 +76,7 @@ This is a repo for all my leetcode solutions
 | [1580-shuffle-the-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -335,6 +336,7 @@ This is a repo for all my leetcode solutions
 | [1018-largest-perimeter-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Enumeration
