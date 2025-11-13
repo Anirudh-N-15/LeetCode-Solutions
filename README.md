@@ -55,6 +55,7 @@ This is a repo for all my leetcode solutions
 | [0417-pacific-atlantic-water-flow](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -115,6 +116,7 @@ This is a repo for all my leetcode solutions
 | [0279-perfect-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0911-profitable-schemes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
@@ -408,6 +410,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0494-target-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0679-24-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Memoization
