@@ -171,6 +171,7 @@ This is a repo for all my leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0279-perfect-squares) |
