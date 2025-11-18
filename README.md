@@ -60,6 +60,7 @@ This is a repo for all my leetcode solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0790-global-and-local-inversions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
