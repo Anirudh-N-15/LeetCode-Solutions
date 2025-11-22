@@ -9,9 +9,7 @@ public:
             if(sub == 0){
                 sub = 1;
             }
-
             ans += min(mod,sub);
-
         }
         return ans ;
     }
