@@ -99,6 +99,7 @@ This is a repo for all my leetcode solutions
 | [2625-increment-submatrices-by-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -276,6 +277,7 @@ This is a repo for all my leetcode solutions
 | [2169-simple-bank-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -396,6 +398,7 @@ This is a repo for all my leetcode solutions
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
