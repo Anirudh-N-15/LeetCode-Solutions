@@ -10,6 +10,7 @@ This is a repo for all my leetcode solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ This is a repo for all my leetcode solutions
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
