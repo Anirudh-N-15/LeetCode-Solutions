@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-elements-with-at-least-k-greater-values">3759. Count Elements With at Least K Greater Values</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-elements-with-at-least-k-greater-values">4141. Count Elements With at Least K Greater Values</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>.</p>
 
 <p>An element in <code>nums</code> is said to be <strong>qualified</strong> if there exist <strong>at least</strong> <code>k</code> elements in the array that are <strong>strictly greater</strong> than it.</p>
 
