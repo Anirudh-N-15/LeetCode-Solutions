@@ -109,6 +109,7 @@ This is a repo for all my leetcode solutions
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
@@ -293,6 +294,7 @@ This is a repo for all my leetcode solutions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -373,6 +375,7 @@ This is a repo for all my leetcode solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3531-count-covered-buildings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
