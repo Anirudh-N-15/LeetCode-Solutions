@@ -105,6 +105,7 @@ This is a repo for all my leetcode solutions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -213,6 +214,7 @@ This is a repo for all my leetcode solutions
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -375,6 +377,7 @@ This is a repo for all my leetcode solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3433-count-mentions-per-user](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Enumeration
@@ -440,6 +443,7 @@ This is a repo for all my leetcode solutions
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3336-water-bottles-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
