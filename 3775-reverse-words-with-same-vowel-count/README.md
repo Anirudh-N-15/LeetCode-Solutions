@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-words-with-same-vowel-count">3775. Reverse Words With Same Vowel Count</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English words, each separated by a single space.</p>
+<h2><a href="https://leetcode.com/problems/reverse-words-with-same-vowel-count">4157. Reverse Words With Same Vowel Count</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English words, each separated by a single space.</p>
 
 <p>Determine how many vowels appear in the <strong>first</strong> word. Then, reverse each following word that has the <strong>same vowel count</strong>. Leave all remaining words unchanged.</p>
 
