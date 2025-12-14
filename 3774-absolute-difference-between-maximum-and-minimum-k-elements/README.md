@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements">3774. Absolute Difference Between Maximum and Minimum K Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/">4158. Absolute Difference Between Maximum and Minimum K Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Find the absolute difference between:</p>
 
