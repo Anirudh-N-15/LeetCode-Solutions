@@ -11,6 +11,7 @@ This is a repo for all my leetcode solutions
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ This is a repo for all my leetcode solutions
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
@@ -111,6 +113,7 @@ This is a repo for all my leetcode solutions
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
@@ -152,6 +155,7 @@ This is a repo for all my leetcode solutions
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
