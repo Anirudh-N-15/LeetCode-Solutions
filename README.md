@@ -21,6 +21,7 @@ This is a repo for all my leetcode solutions
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -341,6 +342,7 @@ This is a repo for all my leetcode solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -348,6 +350,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
@@ -373,6 +376,7 @@ This is a repo for all my leetcode solutions
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2176-parallel-courses-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -388,6 +392,7 @@ This is a repo for all my leetcode solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3433-count-mentions-per-user](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
