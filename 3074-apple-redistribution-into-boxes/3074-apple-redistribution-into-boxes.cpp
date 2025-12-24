@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minimumBoxes(vector<int>& apple, vector<int>& capacity) {
-        sort(apple.begin(),apple.end());
         sort(capacity.begin(),capacity.end(),greater<int>());
 
         int appleSum = accumulate(apple.begin(),apple.end(),0);
