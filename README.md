@@ -36,6 +36,7 @@ This is a repo for all my leetcode solutions
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Tree
@@ -80,6 +81,7 @@ This is a repo for all my leetcode solutions
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -179,6 +181,7 @@ This is a repo for all my leetcode solutions
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
