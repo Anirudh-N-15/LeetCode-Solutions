@@ -281,6 +281,7 @@ This is a repo for all my leetcode solutions
 | [0191-number-of-1-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -300,6 +301,7 @@ This is a repo for all my leetcode solutions
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -370,6 +372,7 @@ This is a repo for all my leetcode solutions
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -506,6 +509,7 @@ This is a repo for all my leetcode solutions
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Memoization
 |  |
