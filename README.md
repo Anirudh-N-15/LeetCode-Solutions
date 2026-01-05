@@ -94,6 +94,7 @@ This is a repo for all my leetcode solutions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -183,6 +184,7 @@ This is a repo for all my leetcode solutions
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
+| [1975-maximum-matrix-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -443,6 +445,7 @@ This is a repo for all my leetcode solutions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
