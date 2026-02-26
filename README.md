@@ -292,6 +292,7 @@ This is a repo for all my leetcode solutions
 | [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -388,6 +389,7 @@ This is a repo for all my leetcode solutions
 | [1006-vowel-spellchecker](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -491,6 +493,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2169-simple-bank-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
