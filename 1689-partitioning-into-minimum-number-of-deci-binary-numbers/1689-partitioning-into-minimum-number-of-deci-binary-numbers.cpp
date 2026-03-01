@@ -1,13 +1,12 @@
 class Solution {
 public:
     int minPartitions(string n) {
-        char maxNum = '0';
+        char ans = '0' ;
 
-        for(int i=0;i<n.size();++i) {
-            if(n[i] > maxNum){
-                maxNum = n[i];
-            }
+        for(char &ch : n) {
+            ans = max(ans,ch) ;
         }
-        return maxNum - '0';
+
+        return ans - '0' ;
     }
 };
