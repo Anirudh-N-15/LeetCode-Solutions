@@ -1,17 +1,16 @@
+class Node {
+public:
+    int key,val;
+    Node *prev, *next;
+
+    Node(int key,int val) {
+        this->key = key, this->val = val;
+        prev = next = nullptr ;
+    }
+};
+
 class LRUCache {
 public:
-
-    class Node {
-        public:
-            int key,val;
-            Node *prev, *next;
-
-            Node(int key,int val) {
-                this->key = key, this->val = val;
-                prev = next = nullptr ;
-            }
-    };
-
     Node* head = new Node(-1,-1); //Dummy Nodes
     Node* tail = new Node(-1,-1);
 
@@ -34,6 +33,7 @@ public:
 
         oldPrev->next = oldNext ;
         oldNext->prev = oldPrev ;
+        
     }
 
     LRUCache(int capacity) {
@@ -48,11 +48,8 @@ public:
         }
 
         Node* ansNode = umap[key];
-        umap.erase(key);
         deleteNode(ansNode);
         addNode(ansNode);
-
-        umap[key] = head->next ;
 
         return ansNode->val ;
     }
