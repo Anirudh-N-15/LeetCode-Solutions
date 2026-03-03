@@ -305,6 +305,7 @@ This is a repo for all my leetcode solutions
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,6 +392,7 @@ This is a repo for all my leetcode solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -497,6 +499,7 @@ This is a repo for all my leetcode solutions
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2169-simple-bank-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
