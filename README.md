@@ -295,6 +295,7 @@ This is a repo for all my leetcode solutions
 | [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
+| [1009-complement-of-base-10-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
