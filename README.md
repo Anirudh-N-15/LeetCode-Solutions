@@ -482,6 +482,7 @@ This is a repo for all my leetcode solutions
 | [0620-not-boring-movies](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
