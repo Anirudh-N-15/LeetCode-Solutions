@@ -480,6 +480,7 @@ This is a repo for all my leetcode solutions
 | [0197-rising-temperature](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
