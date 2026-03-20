@@ -142,6 +142,7 @@ This is a repo for all my leetcode solutions
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -345,6 +346,7 @@ This is a repo for all my leetcode solutions
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -362,6 +364,7 @@ This is a repo for all my leetcode solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3583-count-special-triplets](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
+| [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
