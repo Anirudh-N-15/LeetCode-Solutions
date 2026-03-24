@@ -486,6 +486,7 @@ This is a repo for all my leetcode solutions
 | [1045-customers-who-bought-all-products](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
