@@ -98,6 +98,7 @@ This is a repo for all my leetcode solutions
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
