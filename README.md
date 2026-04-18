@@ -253,6 +253,7 @@ This is a repo for all my leetcode solutions
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
