@@ -3,8 +3,8 @@ This is a repo for all my leetcode solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -14,8 +14,8 @@ This is a repo for all my leetcode solutions
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -30,8 +30,8 @@ This is a repo for all my leetcode solutions
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -43,8 +43,8 @@ This is a repo for all my leetcode solutions
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -52,8 +52,8 @@ This is a repo for all my leetcode solutions
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
@@ -124,6 +124,7 @@ This is a repo for all my leetcode solutions
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2784-check-if-array-is-good](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -154,8 +155,8 @@ This is a repo for all my leetcode solutions
 | [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -192,8 +193,8 @@ This is a repo for all my leetcode solutions
 | [3660-jump-game-ix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0048-rotate-image) |
@@ -217,19 +218,19 @@ This is a repo for all my leetcode solutions
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -271,13 +272,13 @@ This is a repo for all my leetcode solutions
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Probability and Statistics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0826-soup-servings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -285,13 +286,13 @@ This is a repo for all my leetcode solutions
 | [2411-spiral-matrix-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -304,12 +305,12 @@ This is a repo for all my leetcode solutions
 | [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -325,15 +326,15 @@ This is a repo for all my leetcode solutions
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -354,6 +355,7 @@ This is a repo for all my leetcode solutions
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2402-meeting-rooms-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2784-check-if-array-is-good](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -370,16 +372,16 @@ This is a repo for all my leetcode solutions
 | [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0867-new-21-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -389,8 +391,8 @@ This is a repo for all my leetcode solutions
 | [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -405,14 +407,14 @@ This is a repo for all my leetcode solutions
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0794-swim-in-rising-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0165-compare-version-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -445,16 +447,16 @@ This is a repo for all my leetcode solutions
 | [3811-reverse-degree-of-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2176-parallel-courses-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -466,6 +468,7 @@ This is a repo for all my leetcode solutions
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2092-find-all-people-with-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2784-check-if-array-is-good](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -475,8 +478,8 @@ This is a repo for all my leetcode solutions
 | [3606-coupon-code-validator](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
@@ -485,8 +488,8 @@ This is a repo for all my leetcode solutions
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0891-score-after-flipping-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
@@ -508,8 +511,8 @@ This is a repo for all my leetcode solutions
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0577-employee-bonus) |
@@ -519,8 +522,8 @@ This is a repo for all my leetcode solutions
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -533,8 +536,8 @@ This is a repo for all my leetcode solutions
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -542,8 +545,8 @@ This is a repo for all my leetcode solutions
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1861-rotating-the-box](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -560,70 +563,70 @@ This is a repo for all my leetcode solutions
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1572-subrectangle-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2176-parallel-courses-iii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
