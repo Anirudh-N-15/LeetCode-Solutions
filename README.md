@@ -128,6 +128,7 @@ This is a repo for all my leetcode solutions
 | [2848-points-that-intersect-with-cars](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -442,6 +443,7 @@ This is a repo for all my leetcode solutions
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3093-longest-common-suffix-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -633,4 +635,8 @@ This is a repo for all my leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
