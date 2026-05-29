@@ -59,6 +59,7 @@ This is a repo for all my leetcode solutions
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0120-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -199,6 +200,7 @@ This is a repo for all my leetcode solutions
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0221-maximal-square](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -338,6 +340,7 @@ This is a repo for all my leetcode solutions
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
