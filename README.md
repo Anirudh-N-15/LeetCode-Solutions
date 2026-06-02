@@ -42,6 +42,7 @@ This is a repo for all my leetcode solutions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ This is a repo for all my leetcode solutions
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -487,6 +489,7 @@ This is a repo for all my leetcode solutions
 | [3433-count-mentions-per-user](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -521,6 +524,7 @@ This is a repo for all my leetcode solutions
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Database
 | Problem Name | Difficulty |
@@ -556,6 +560,7 @@ This is a repo for all my leetcode solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1861-rotating-the-box](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
