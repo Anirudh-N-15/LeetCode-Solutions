@@ -199,6 +199,7 @@ This is a repo for all my leetcode solutions
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@ This is a repo for all my leetcode solutions
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Probability and Statistics
 | Problem Name | Difficulty |
@@ -504,6 +506,7 @@ This is a repo for all my leetcode solutions
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
