@@ -126,6 +126,7 @@ This is a repo for all my leetcode solutions
 | [2432-number-of-zero-filled-subarrays](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2625-increment-submatrices-by-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -551,6 +552,7 @@ This is a repo for all my leetcode solutions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2625-increment-submatrices-by-one](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2848-points-that-intersect-with-cars](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
