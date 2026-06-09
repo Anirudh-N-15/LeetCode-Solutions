@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/">3950. Exactly One Consecutive Set Bits Pair</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/">4307. Exactly One Consecutive Set Bits Pair</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
 
 <p>Return <code>true</code> if its binary representation contains <strong>exactly one</strong> pair of <strong>consecutive</strong> <span data-keyword="set-bit">set bits</span>, and <code>false</code> otherwise.</p>
 
