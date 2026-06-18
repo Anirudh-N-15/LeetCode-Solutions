@@ -67,6 +67,7 @@ This is a repo for all my leetcode solutions
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0057-insert-interval](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0120-triangle](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -362,6 +363,7 @@ This is a repo for all my leetcode solutions
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -445,6 +447,7 @@ This is a repo for all my leetcode solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -490,6 +493,7 @@ This is a repo for all my leetcode solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
