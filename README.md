@@ -114,6 +114,7 @@ This is a repo for all my leetcode solutions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -570,6 +571,7 @@ This is a repo for all my leetcode solutions
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
