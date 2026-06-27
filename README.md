@@ -143,6 +143,7 @@ This is a repo for all my leetcode solutions
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -394,6 +395,7 @@ This is a repo for all my leetcode solutions
 | [2784-check-if-array-is-good](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -539,6 +541,7 @@ This is a repo for all my leetcode solutions
 | [1925-count-square-sum-triples](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
