@@ -308,6 +308,7 @@ This is a repo for all my leetcode solutions
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -448,6 +449,7 @@ This is a repo for all my leetcode solutions
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -515,6 +517,7 @@ This is a repo for all my leetcode solutions
 | [3606-coupon-code-validator](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Graph
 |  |
 | ------- |
