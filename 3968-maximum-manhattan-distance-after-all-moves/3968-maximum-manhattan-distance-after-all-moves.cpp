@@ -20,12 +20,7 @@ public:
             }
         }
 
-        if(ans.first < 0) {
-            ans.first += -count ;
-        } else {
-            ans.first += count ;
-        }
 
-        return abs(ans.first) + abs(ans.second) ;
+        return abs(ans.first) + abs(ans.second) + count  ;
     }
 };
