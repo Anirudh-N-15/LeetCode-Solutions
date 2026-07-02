@@ -181,6 +181,7 @@ This is a repo for all my leetcode solutions
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -422,6 +423,7 @@ This is a repo for all my leetcode solutions
 | [3863-power-grid-maintenance](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3866-first-unique-even-element](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -431,6 +433,7 @@ This is a repo for all my leetcode solutions
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
 | ------- |
@@ -561,6 +564,7 @@ This is a repo for all my leetcode solutions
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Greedy
 |  |
 | ------- |
@@ -618,6 +622,7 @@ This is a repo for all my leetcode solutions
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
 | ------- |
