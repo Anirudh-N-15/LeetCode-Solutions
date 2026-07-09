@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range">4356. Sum of Integers with Maximum Digit Range</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range">3982. Sum of Integers with Maximum Digit Range</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>The <strong>digit range</strong> of an integer is defined as the difference between its <strong>largest</strong> digit and <strong>smallest</strong> digit.</p>
 
