@@ -1,26 +1,20 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        vector <pair<int,int>> temp;
+        map<int,vector<int>> mp ;
 
-        for(int i=0;i<arr.size();++i){
-            temp.push_back({arr[i],i});
+        for(int i = 0; i < arr.size(); i++) {
+            mp[arr[i]].push_back(i);
         }
 
-        sort(temp.begin(),temp.end());
         int rank = 1;
 
-        for(int i=0;i<temp.size();++i){
-            if(i > 0 && temp[i].first == temp[i-1].first){
-                arr[temp[i].second] = arr[temp[i-1].second] ;
+        for(auto &pair : mp) {
+            for(int &index : pair.second) {
+                arr[index] = rank ;
             }
-
-            else{
-                arr[temp[i].second] = rank ;
-                rank++ ;
-            }
+            rank++ ;
         }
-
         return arr ;
     }
 };
