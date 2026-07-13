@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/">4357. Number of Elapsed Seconds Between Two Times</a></h2><h3>Easy</h3><hr><p>You are given two valid times <code>startTime</code> and <code>endTime</code>, each represented as a string in the format <code>&quot;HH:MM:SS&quot;</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/">3986. Number of Elapsed Seconds Between Two Times</a></h2><h3>Easy</h3><hr><p>You are given two valid times <code>startTime</code> and <code>endTime</code>, each represented as a string in the format <code>&quot;HH:MM:SS&quot;</code>.</p>
 
 <p>Return the number of seconds that have elapsed from <code>startTime</code> to <code>endTime</code>.</p>
 
