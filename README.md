@@ -578,6 +578,7 @@ This is a repo for all my leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0900-reordered-power-of-2](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
