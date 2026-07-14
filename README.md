@@ -129,6 +129,7 @@ This is a repo for all my leetcode solutions
 | [1917-maximum-average-pass-ratio](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2023-design-movie-rental-system](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -299,6 +300,7 @@ This is a repo for all my leetcode solutions
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -727,6 +729,7 @@ This is a repo for all my leetcode solutions
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anirudh-N-15/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Ordered Set
