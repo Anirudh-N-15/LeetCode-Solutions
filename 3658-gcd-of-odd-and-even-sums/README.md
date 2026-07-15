@@ -1,11 +1,11 @@
-<h2><a href="https://leetcode.com/problems/gcd-of-odd-and-even-sums">3658. GCD of Odd and Even Sums</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>. Your task is to compute the <strong>GCD</strong> (greatest common divisor) of two values:</p>
+<h2><a href="https://leetcode.com/problems/gcd-of-odd-and-even-sums">3995. GCD of Odd and Even Sums</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>. Your task is to compute the <strong>GCD</strong> (greatest common divisor) of two values:</p>
 
 <ul>
 	<li>
-	<p><code>sumOdd</code>: the sum of the first <code>n</code> odd numbers.</p>
+	<p><code>sumOdd</code>: the sum of the smallest&nbsp;<code>n</code>&nbsp;positive odd numbers.</p>
 	</li>
 	<li>
-	<p><code>sumEven</code>: the sum of the first <code>n</code> even numbers.</p>
+	<p><code>sumEven</code>: the sum of the smallest&nbsp;<code>n</code>&nbsp;positive even numbers.</p>
 	</li>
 </ul>
 
